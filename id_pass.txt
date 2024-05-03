@@ -1,0 +1,6 @@
+admin:admin
+admin:password
+admin:pass
+admin:12345678
+admin:123
+admin:admin@123
